@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/credit-bureau",
+    "JWT_SECRET": "hello2",
+    "JWT_EXPIRATION": "1h"
+  }
+  
